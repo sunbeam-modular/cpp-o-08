@@ -69,3 +69,69 @@ Testing/
 .cache/
 
 private/
+
+## =======================================================================
+## Visual Studio IDE & User-Specific Files
+## =======================================================================
+# Folder containing VS user settings, history, and local cache
+.vs/
+
+# User-specific configuration files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diagnostic and telemetry logs
+*.VC.db
+*.VC.opendb
+
+## =======================================================================
+## Build Outputs & Binaries (MSVC Compilation)
+## =======================================================================
+# Object files and dynamic link library artifacts
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+
+# Static and Dynamic Libraries (keep if you manage dependencies manually, but usually ignored)
+*.lib
+*.dll
+*.exe
+
+# Precompiled header artifacts
+*.pch
+
+## =======================================================================
+## Output Directories (Standard configurations)
+## =======================================================================
+# Build output folders at solution and project root levels
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+
+## =======================================================================
+## C++ Intelligence & Cache Files
+## =======================================================================
+# Intellisense browsing databases and precompiled headers cache
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+## =======================================================================
+## CMake Build Outputs (If using CMake within Visual Studio)
+## =======================================================================
+CMakeSettings.json
+CMakeUserPresets.json
+/out/
+/build/
