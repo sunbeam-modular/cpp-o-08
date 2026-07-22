@@ -1,0 +1,2 @@
+1. Write class date with appropriate data members and member functions. Write constructors, getters, setters, facilitators, destructors.
+2. Write a class distance with data members feet and inches. Write constructors, getters, setters, facilitators, destructors. Also write a method to add a distance to another distance i.e. d3 = d1.add(d2); 
