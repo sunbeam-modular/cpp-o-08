@@ -1,0 +1,2 @@
+1. Create person class with name and age data members. Implement constructors, accept() and display() facilitators using cin/cout.
+2. Add accept() and display() method in our time class. Make getter/setter methods as "inline".
